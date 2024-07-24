@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>22</DayMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בשלוש לשבת יום עשרים ושתיים לירח שבט שנת חמשת אלפים ושבע מאות ושמנים וחמישה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>10</DayMonth>
+    <Month>אדר א'</Month>
+    <Year>תשצ"א</Year>
+    <Result>באחד לשבת יום עשר לירח אדר א' שנת חמשת אלפים ושבע מאות ותשעים ואחת לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>אייר</Month>
+    <Year>תשצ"ב</Year>
+    <Result>בחמישה לשבת אייר שהוא ראש חודש אייר יום שלושים לירח אייר שנת חמשת אלפים ושבע מאות ותשעים ושתים לבריאת העולם</Result>
+  </Query>
+</Queries>

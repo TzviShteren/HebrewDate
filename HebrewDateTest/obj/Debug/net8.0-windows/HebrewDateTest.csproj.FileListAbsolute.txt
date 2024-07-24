@@ -1,0 +1,16 @@
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\bin\Debug\net8.0-windows\HebrewDateTest.exe
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\bin\Debug\net8.0-windows\HebrewDateTest.deps.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\bin\Debug\net8.0-windows\HebrewDateTest.runtimeconfig.json
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\bin\Debug\net8.0-windows\HebrewDateTest.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\bin\Debug\net8.0-windows\HebrewDateTest.pdb
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.Form1.resources
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.csproj.GenerateResource.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.AssemblyInfoInputs.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.AssemblyInfo.cs
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.csproj.CoreCompileInputs.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\refint\HebrewDateTest.dll
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.pdb
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\HebrewDateTest.genruntimeconfig.cache
+C:\Users\Stern\Desktop\Studies codekod2\C#\HebrewDateTest\HebrewDateTest\obj\Debug\net8.0-windows\ref\HebrewDateTest.dll

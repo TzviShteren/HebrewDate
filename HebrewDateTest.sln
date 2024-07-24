@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HebrewDateTest", "HebrewDateTest\HebrewDateTest.csproj", "{A2206185-C51C-4036-A5A2-2CD3D29405CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2206185-C51C-4036-A5A2-2CD3D29405CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2206185-C51C-4036-A5A2-2CD3D29405CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2206185-C51C-4036-A5A2-2CD3D29405CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2206185-C51C-4036-A5A2-2CD3D29405CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2B3343-4E8B-4D09-9AF0-5E9CDE4A2E41}
+	EndGlobalSection
+EndGlobal

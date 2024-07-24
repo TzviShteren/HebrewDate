@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|c:\\users\\stern\\desktop\\studies codekod2\\c#\\hebrewdatetest\\hebrewdatetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|solutionrelative:hebrewdatetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|c:\\users\\stern\\desktop\\studies codekod2\\c#\\hebrewdatetest\\hebrewdatetest\\servise\\dateservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|solutionrelative:hebrewdatetest\\servise\\dateservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|c:\\users\\stern\\desktop\\studies codekod2\\c#\\hebrewdatetest\\hebrewdatetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|solutionrelative:hebrewdatetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|c:\\users\\stern\\desktop\\studies codekod2\\c#\\hebrewdatetest\\hebrewdatetest\\model\\hebrewdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2206185-C51C-4036-A5A2-2CD3D29405CF}|HebrewDateTest\\HebrewDateTest.csproj|solutionrelative:hebrewdatetest\\model\\hebrewdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateServise.cs",
+              "DocumentMoniker": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\Servise\\DateServise.cs",
+              "RelativeDocumentMoniker": "HebrewDateTest\\Servise\\DateServise.cs",
+              "ToolTip": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\Servise\\DateServise.cs",
+              "RelativeToolTip": "HebrewDateTest\\Servise\\DateServise.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwFkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:18:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\Form1.cs",
+              "RelativeDocumentMoniker": "HebrewDateTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\Form1.cs",
+              "RelativeToolTip": "HebrewDateTest\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:47:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HebrewDate.cs",
+              "DocumentMoniker": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\model\\HebrewDate.cs",
+              "RelativeDocumentMoniker": "HebrewDateTest\\model\\HebrewDate.cs",
+              "ToolTip": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\model\\HebrewDate.cs",
+              "RelativeToolTip": "HebrewDateTest\\model\\HebrewDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:15:34.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\Form1.cs",
+              "RelativeDocumentMoniker": "HebrewDateTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Stern\\Desktop\\Studies codekod2\\C#\\HebrewDateTest\\HebrewDateTest\\Form1.cs [Design]",
+              "RelativeToolTip": "HebrewDateTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:44:34.352Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
